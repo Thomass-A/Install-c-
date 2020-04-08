@@ -1,0 +1,27 @@
+{
+  "name": "serveur",
+  "version": "1.0.0",
+  "description": "LOL",
+  "main": "\t",
+  "dependencies": {
+    "fivem-js": "^1.3.2",
+    "i": "^0.3.6",
+    "mysql": "^2.17.1",
+    "npm": "^6.13.6",
+    "sjcl": "^1.0.8",
+    "uuid-with-v6": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/configure"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LYK"
+  },
+  "keywords": [
+    "fesdfzsedf"
+  ],
+  "author": "fesfdes",
+  "license": "ISC"
+}
